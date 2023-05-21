@@ -11,9 +11,9 @@ export default component$(() => {
           <div class="pb-12 md:pb-0 md:py-0 mx-auto md:pr-16 flex items-center basis-3/5">
             <div>
               <h1 class="text-5xl md:text-[3.48rem] font-bold leading-tighter tracking-tighter mb-4 font-heading px-4 md:px-0">
-                Free template for <br class="hidden lg:block" />{" "}
-                <span class="hidden lg:inline">create a website using </span> <span class="text-[#039de1]">Qwik</span> +{" "}
-                <span class="sm:whitespace-nowrap text-[#039de1]">Tailwind CSS</span>
+                Free for me <br class="hidden lg:block" />{" "}
+                <span class="hidden lg:inline">create a crap using </span> <span class="text-[#039de1]">Qwikify</span> +{" "}
+                <span class="sm:whitespace-nowrap text-[#039de1]">Tailwind</span>
               </h1>
               <div class="max-w-3xl mx-auto">
                 <p class="text-xl text-gray-600 mb-8 dark:text-slate-400">
