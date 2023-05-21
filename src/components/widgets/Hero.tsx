@@ -24,7 +24,7 @@ export default component$(() => {
                   It has been designed following Best Practices, SEO, Accessibility,{" "}
                   <span class="inline md:hidden">...</span>
                   <span class="hidden md:inline">
-                    Dark Mode, Great Page Speed, image optimization, sitemap generation and more.
+                    Dark Node, Great Page Speed, image optimization, sitemap generation and more.
                   </span>
                 </p>
                 <div class="max-w-xs sm:max-w-md flex flex-nowrap flex-col sm:flex-row gap-4 m-auto md:m-0 justify-center md:justify-start">
