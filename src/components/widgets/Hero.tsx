@@ -45,19 +45,7 @@ export default component$(() => {
               </div>
             </div>
           </div>
-          <div class="block md:flex items-center flex-1">
-            <div class="relative m-auto max-w-4xl">
-              <Image
-                src={coverImage}
-                layout="constrained"
-                width={493}
-                height={616}
-                alt="Qwind Hero Image (Cool dog)"
-                class="mx-auto w-full rounded-md md:h-full drop-shadow-2xl bg-gray-400 dark:bg-slate-700"
-                breakpoints={[320, 480, 640, 1024]}
-              />
-            </div>
-          </div>
+  
         </div>
       </div>
     </section>
