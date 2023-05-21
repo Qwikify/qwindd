@@ -11,14 +11,14 @@ export default component$(() => {
           <div class="pb-12 md:pb-0 md:py-0 mx-auto md:pr-16 flex items-center basis-3/5">
             <div>
               <h1 class="text-5xl md:text-[3.48rem] font-bold leading-tighter tracking-tighter mb-4 font-heading px-4 md:px-0">
-                Free for me <br class="hidden lg:block" />{" "}
+                Free for me and you <br class="hidden lg:block" />{" "}
                 <span class="hidden lg:inline">create a crap using </span> <span class="text-[#039de1]">Qwikify</span> +{" "}
                 <span class="sm:whitespace-nowrap text-[#039de1]">Tailwind</span>
               </h1>
               <div class="max-w-3xl mx-auto">
                 <p class="text-xl text-gray-600 mb-8 dark:text-slate-400">
                   <span class="font-semibold underline decoration-wavy decoration-1 decoration-secondary-600 underline-offset-2">
-                    Qwind
+                    Qwikify
                   </span>{" "}
                   is a production ready template to start your new website using <em>Qwik</em> + <em>Tailwind CSS</em>.
                   It has been designed following Best Practices, SEO, Accessibility,{" "}
